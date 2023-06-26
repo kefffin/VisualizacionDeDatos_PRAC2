@@ -1,0 +1,29 @@
+Offense Category,Bias Motive Description,counts
+Age,60 YRS AND OLDER,1
+Disability,ANTI-PHYSICAL DISABILITY,1
+Ethnicity/National Origin/Ancestry,ANTI-ARAB,7
+Ethnicity/National Origin/Ancestry,ANTI-HISPANIC,37
+Ethnicity/National Origin/Ancestry,ANTI-OTHER ETHNICITY,80
+Gender,ANTI-FEMALE,14
+Gender,ANTI-GENDER NON-CONFORMING,7
+Gender,ANTI-TRANSGENDER,53
+Race/Color,ANTI-ASIAN,282
+Race/Color,ANTI-BLACK,184
+Race/Color,ANTI-MULTI-RACIAL GROUPS,3
+Race/Color,ANTI-WHITE,84
+Race/Color,ANTI_BLACK,1
+Race/Religious Practice,ANTI-JEWISH,2
+Religion/Religious Practice,ANTI-BUDDHIST,3
+Religion/Religious Practice,ANTI-CATHOLIC,40
+Religion/Religious Practice,ANTI-EASTERN ORTHODOX,2
+Religion/Religious Practice,ANTI-HINDU,6
+Religion/Religious Practice,ANTI-JEHOVAHS WITNESS,3
+Religion/Religious Practice,ANTI-JEWISH,929
+Religion/Religious Practice,ANTI-MUSLIM,53
+Religion/Religious Practice,ANTI-OTHER RELIGION,5
+Religion/Religious Practice,ANTI-PROTESTANT,1
+Religion/Religious Practice,ANTI-RELIGIOUS PRACTICE GENERALLY,3
+Religion/Religious Practice,ANTI-SIKH,4
+Sexual Orientation,ANTI-FEMALE HOMOSEXUAL (LESBIAN),31
+Sexual Orientation,ANTI-LGBT (MIXED GROUP),11
+Sexual Orientation,ANTI-MALE HOMOSEXUAL (GAY),253
